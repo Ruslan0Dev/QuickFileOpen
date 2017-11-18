@@ -1,7 +1,9 @@
 {
-	"0": ["title1", "path1"],
-	"1": ["title2", "path2"],
-	"2": ["---TITLE---", ""],
-	"3": ["title3", "path3"],
-	"4": ["title4", "path4"],
+	"menu": [
+		["title1" , "path1"],
+		["title2" , "path2"],
+		["---TITLE---" , ""],
+		["title3" , "path3"],
+		["title4" , "path4"],
+		 ]
 }
